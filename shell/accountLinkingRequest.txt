@@ -1,0 +1,5 @@
+{
+"operation": "GetUserId", 
+"infoField1": "jiangjian", 
+"infoField2": "1234"
+}
